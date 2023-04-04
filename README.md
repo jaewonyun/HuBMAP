@@ -1,5 +1,6 @@
 # HuBMAP
 Image Segmentation with attention residual unet
+![Example image](./sample.png)
 
 # This notebook trains and compares three different U-Net models for segmentation tasks:
 
